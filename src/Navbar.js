@@ -18,12 +18,10 @@ const Navbar = () => {
           <a className="nav-link" href="/about">About</a>
         </li>
         
-        <li className="nav-item">
-          <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
+        
       </ul>
       <div >
-          <button disabled={true} className="btn-success"> Your Balance:0</button>  
+          <button disabled={true} className="btn-success"> Your Balance:58833</button>  
     </div>
     </div>
   </div>
